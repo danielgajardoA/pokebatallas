@@ -1,0 +1,27 @@
+{
+
+   "shot_name": "Batallas pokemon",
+   "name": "poke web duoc",
+   "start_url": "index.html",
+   "background_color": "#2196f3",
+   "theme_color": "#2196f3",
+   "display": "standalone",
+   "orientation": "portrait",
+   "icons": [
+    {
+       "src": "img/icons/ic_poke_launcher-48x48.png",
+       "type": "image/png",
+       "sizes": "48x48"
+    },
+     
+
+   {
+        "src": "img/icons/ic_poke_launcher-72x72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+
+    }
+
+  ]
+
+}
